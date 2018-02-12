@@ -1,0 +1,6 @@
+{
+    "ENV": {
+        "name": "qualityAsurance",
+        "appUrl":"http://35.162.61.74:8080/SmartParking/rest/"
+    }
+}

@@ -1,0 +1,1 @@
+angular.module("envVariables",[]).constant("ENV",{name:"development",appUrl:"http://35.162.61.74:8080/SmartParking/rest/"});

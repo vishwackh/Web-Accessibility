@@ -1,0 +1,14 @@
+{
+    "Label.MainHeader": "Main Header of",
+    "Label.AutoAttendantList": "Auto Attendant List",
+    "Label.AADefaultMessage": "24 hours system default message",
+    "Label.HuntGroupList": "Hunt Group List",
+    "Label.HGDefaultMessage": "Not set up",
+
+    "Link.Overview": "Go To Overview",
+
+
+    "Button.Edit": "Edit",
+    "Button.Customize": "Customize",
+    "Button.SetUp": "Set up"
+}
