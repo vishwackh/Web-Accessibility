@@ -55,6 +55,21 @@
                 url: "/home",
                 templateUrl: "modules/dashboard/views/home.html",
                 resolve: loadSequence('modules', 'dashboardCtrl', 'dashboardModel')
+            })
+            .state('input', {
+                url: "/input",
+                templateUrl: "modules/inputs/views/textbox.html",
+                // resolve: loadSequence('modules', 'dashboardCtrl', 'dashboardModel')
+            })
+            .state('inputRadio', {
+                url: "/inputRadio",
+                templateUrl: "modules/inputs/views/radioButton.html",
+                // resolve: loadSequence('modules', 'dashboardCtrl', 'dashboardModel')
+            })
+            .state('inputCheckbox', {
+                url: "/inputCheckbox",
+                templateUrl: "modules/inputs/views/home.html",
+                // resolve: loadSequence('modules', 'dashboardCtrl', 'dashboardModel')
             });
 
 
