@@ -68,7 +68,7 @@
             })
             .state('inputCheckbox', {
                 url: "/inputCheckbox",
-                templateUrl: "modules/inputs/views/home.html",
+                templateUrl: "modules/inputs/views/checkbox.html",
                 // resolve: loadSequence('modules', 'dashboardCtrl', 'dashboardModel')
             });
 
